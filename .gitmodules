@@ -1,0 +1,8 @@
+[submodule "varif"]
+	path = varif
+	url = https://github.com/marcguery/varif.git
+	branch = master
+[submodule "discovarif"]
+	path = discovarif
+	url = https://github.com/marcguery/discovarif.git
+	branch = master
